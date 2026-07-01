@@ -1215,23 +1215,6 @@
       "calc": null
     },
     {
-      "question": "A antena isotrópica e o dipolo de meia onda são antenas de referência para",
-      "answers": [
-        "o cálculo da p.a.r. e da p.i.r.e, respetivamente",
-        "o cálculo da p.a.r. e da p.i.r.e, respetivamente",
-        "o cálculo da p.i.r.e. e da p.a.r. respetivamente",
-        "o cálculo da abertura e da diretividade, respetivamente"
-      ],
-      "correctIndex": 3,
-      "notes": "Notas",
-      "img": null,
-      "uniqueID": 68,
-      "fonte": null,
-      "tutorial": null,
-      "materia": null,
-      "calc": null
-    },
-    {
       "question": "Numa estação de amador em emissão, a potência aparente radiada (p.a.r.) é função",
       "answers": [
         "da potência de saída do emissor, das perdas da linha de transmissão que o liga à antena e do ganho desta",
@@ -2459,23 +2442,6 @@
       "notes": "Notas",
       "img": null,
       "uniqueID": 137,
-      "fonte": null,
-      "tutorial": null,
-      "materia": null,
-      "calc": null
-    },
-    {
-      "question": "O Indicativo de Chamada Ocasional Anual (ICOA) é concedido",
-      "answers": [
-        "por um mês e é renovável por iguais períodos",
-        "por um ano e é renovável por iguais períodos",
-        "por cinco ano e é renovável por iguais períodos",
-        "por dez anos e é renovável por iguais períodos"
-      ],
-      "correctIndex": 2,
-      "notes": "Notas",
-      "img": null,
-      "uniqueID": 138,
       "fonte": null,
       "tutorial": null,
       "materia": null,
